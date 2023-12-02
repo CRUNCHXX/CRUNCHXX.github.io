@@ -2,86 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://crunchxx.github.io/tags/aplayer/</loc>
-    <lastmod>2021-01-10T00:00:00+08:00</lastmod>
+    <loc>https://crunchxx.github.io/post/</loc>
+    <lastmod>2023-12-02T17:11:01+08:00</lastmod>
+  </url><url>
+    <loc>https://crunchxx.github.io/post/1/</loc>
+    <lastmod>2023-12-02T17:11:01+08:00</lastmod>
   </url><url>
     <loc>https://crunchxx.github.io/</loc>
-    <lastmod>2021-01-10T00:00:00+08:00</lastmod>
+    <lastmod>2023-12-02T17:11:01+08:00</lastmod>
   </url><url>
-    <loc>https://crunchxx.github.io/post/aplayer-test/</loc>
-    <lastmod>2021-01-10T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/</loc>
-    <lastmod>2021-01-10T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/test/</loc>
-    <lastmod>2021-01-10T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/css/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/html/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/markdown/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/markdown-syntax/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/themes/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/fish/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+    <loc>https://crunchxx.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-12-02T17:11:01+08:00</lastmod>
   </url><url>
     <loc>https://crunchxx.github.io/about/</loc>
-    <lastmod>2020-04-11T19:15:32+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/math-typesetting/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/cjk/</loc>
-    <lastmod>2018-03-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/cjk-unicode-test/</loc>
-    <lastmod>2018-03-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/wtf/</loc>
-    <lastmod>2017-04-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/wtf-article/</loc>
-    <lastmod>2017-04-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/cascading-stylesheets/</loc>
-    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/excessive-tags/</loc>
-    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/fuji-theme-tests/</loc>
-    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/hypertext-markup-language/</loc>
-    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/post-meta-test/</loc>
-    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/tags/</loc>
-    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-02T16:26:24+08:00</lastmod>
   </url><url>
     <loc>https://crunchxx.github.io/archives/</loc>
   </url><url>
