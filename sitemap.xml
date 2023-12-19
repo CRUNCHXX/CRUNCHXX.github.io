@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://crunchxx.github.io/post/</loc>
+    <loc>https://crunchxx.cn/post/</loc>
+    <lastmod>2023-12-18T09:17:19+08:00</lastmod>
+  </url><url>
+    <loc>https://crunchxx.cn/</loc>
+    <lastmod>2023-12-18T09:17:19+08:00</lastmod>
+  </url><url>
+    <loc>https://crunchxx.cn/post/3/</loc>
+    <lastmod>2023-12-18T09:17:19+08:00</lastmod>
+  </url><url>
+    <loc>https://crunchxx.cn/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-12-18T09:17:19+08:00</lastmod>
+  </url><url>
+    <loc>https://crunchxx.cn/post/2/</loc>
     <lastmod>2023-12-16T11:54:52+08:00</lastmod>
   </url><url>
-    <loc>https://crunchxx.github.io/post/2/</loc>
-    <lastmod>2023-12-16T11:54:52+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/</loc>
-    <lastmod>2023-12-16T11:54:52+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-12-16T11:54:52+08:00</lastmod>
-  </url><url>
-    <loc>https://crunchxx.github.io/post/1/</loc>
+    <loc>https://crunchxx.cn/post/1/</loc>
     <lastmod>2023-12-02T17:11:01+08:00</lastmod>
   </url><url>
-    <loc>https://crunchxx.github.io/about/</loc>
+    <loc>https://crunchxx.cn/about/</loc>
     <lastmod>2023-12-02T16:26:24+08:00</lastmod>
   </url><url>
-    <loc>https://crunchxx.github.io/archives/</loc>
+    <loc>https://crunchxx.cn/archives/</loc>
   </url><url>
-    <loc>https://crunchxx.github.io/search/</loc>
+    <loc>https://crunchxx.cn/search/</loc>
   </url>
 </urlset>
